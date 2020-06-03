@@ -32,4 +32,6 @@ ____________________________________________
 Plaese help the developer by sharing this useful piece everywhere you can, thanks :)
 
 **[Links:]**
+
+15 seconds ADB installer
 https://forum.xda-developers.com/showthread.php?t=2588979
