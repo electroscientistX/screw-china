@@ -8,6 +8,7 @@ So, to find them and uninstall them easily, i created screwChina!
 Also, this Chinese apps are responsible for lowering averafe IQ of whole generation and wasting countless hours.
 ____________________________________________
 **Aim:**
+
 Identifying and removing Chinese apps to ensure persional and national security
 ____________________________________________
 **Advantages:**
