@@ -30,3 +30,6 @@ ____________________________________________
 
 **Final Note:**
 Plaese help the developer by sharing this useful piece everywhere you can, thanks :)
+
+**[Links:]**
+https://forum.xda-developers.com/showthread.php?t=2588979
