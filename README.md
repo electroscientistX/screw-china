@@ -17,3 +17,16 @@ ____________________________________________
 2) Easy, anyone with more than 55 brain cells can use it!
 3) No-Frills all you need to do is double click to start this software and it will handle the rest!
 4) Everything is always free, no shitty ads!
+____________________________________________
+**Usage:**
+1) Install ADB drivers (preffered: 15 second ADB Installer, link at bottom)
+2) in youro to your phone settings, go to about phone, find 'build number' and click 7 times on it.
+3) press back and go to developer options, turn on USB Debugging
+4) Connect phone to computer with a USB cable
+5) Double click on screwChina (the only other file in this project, SO FAR)
+6) if you see "failed" messages, don't worry, it's working. Ignore this messages.
+____________________________________________
+
+
+**Final Note:**
+Plaese help the developer by sharing this useful piece everywhere you can, thanks :)
