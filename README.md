@@ -2,6 +2,7 @@
 A tool to remove chinese apps from your phone
 
 **Motive:**
+
 As we all know, chinese government have total access of all data transmitted and received by chinese apps.
 This becoming huge security issue for many nations, many intelligance and security services are encouraging users to remove chinese apps from their phones. But many of us are unaware of said chinese apps.
 So, to find them and uninstall them easily, i created screwChina!
